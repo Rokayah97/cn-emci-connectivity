@@ -12,8 +12,7 @@ a leakage-free evaluation protocol.
 1. `notebooks/01_registration_step1.ipynb` — ANTs registration to MNI space.
 2. `notebooks/02_classification_pipeline.ipynb` — feature extraction,
    leakage-free cross-validation, and all reported results.
-3. `notebooks/03_prior_method_reimplementation.ipynb` — representative
-   prior-method comparison.
+   
 
 ## Data
 Data are from ADNI and are **not** included. See `docs/data_access.md`.
